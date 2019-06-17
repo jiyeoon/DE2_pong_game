@@ -3,7 +3,7 @@ Using FPGA Altera DE2 board, developed ping pong game. (One player only)
 
 # Project Files - Module
 ![projecfile-image.png](./projectfile-image.png)
-- pongproject : Top module. It combiles pong_main and monitor_output.
+- pongproject : Top module. It combines pong_main.v and monitor_output.v
 - pong_main : Related to the pong game.
 - monitor_output : It's about monitor output throughout VGA.    
    
