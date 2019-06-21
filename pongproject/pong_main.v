@@ -33,16 +33,5 @@ module pong_main(clk, reset, right, left, ready_button,
 	game_datapath u2 (clk, game_clk, reset, px, py, ready_sig, start_sig,
 		play_sig, pause_sig, left_sig, right_sig, pixel, sig_dead);
 	
-
-//game_controller u1 (clk, reset, ready_button, right_o, left_o,
-//module game_datapath(clk, game_clk, reset, px, py,
-
-//		sig_dead,  ready_sig, start_sig,  play_sig,  pause_sig);
-
-//	game_datapath u2 (clk, game_clk, reset, px, py, 
-//		ready_sig, start_sig, play_sig, pause_sig,
-//		left, right,
-//		left_o, right_o,
-//		pixel, sig_dead);
 	
 endmodule
