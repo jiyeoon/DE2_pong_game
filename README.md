@@ -15,3 +15,6 @@ Using FPGA Altera DE2 board, developed ping pong game. (One player only)
 # Block Diagram
 ![block-diagram.png](./block-diagram.png)
   
+
+# Result Image
+![result-image.png](./result-image.png)
